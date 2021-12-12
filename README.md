@@ -29,8 +29,6 @@ and redux persist. Uses latest version of react-navigation (v5.9)
 - [Eslint](http://eslint.org/) ([Airbnb config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
 
 
-## How this looks
-  <img height="720" src="https://user-images.githubusercontent.com/15869386/84810277-c051fb00-b028-11ea-9351-cbb586ae4fc2.gif" />
   
 ## Prerequisites
 
